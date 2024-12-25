@@ -1,2 +1,3 @@
 # newrepository
-this is new github repository
+This is new github repository
+Author :Piyush Pandey
